@@ -4,4 +4,5 @@
 Hello all!
 
 *We are doing great Job!*
-** We are perfect team **
+* 1. We are perfect team
+* 2. We have succesfully completed all homeworks
